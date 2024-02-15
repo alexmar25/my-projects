@@ -1,0 +1,55 @@
+2024-02-06 13:38:24,565:INFO:Query: SELECT * FROM market_capitalizations WHERE "Bank name" = 'JPMorgan Chase'
+2024-02-06 13:38:24,565:INFO:Results: [(1, 'JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71)]
+2024-02-06 13:50:22,734:INFO:Starting data extraction
+2024-02-06 13:50:22,734:INFO:Data extraction completed
+2024-02-06 13:50:22,734:INFO:Starting data transformation
+2024-02-06 13:50:22,734:INFO:Data transformation completed
+2024-02-06 13:50:22,734:INFO:Starting data loading into SQL database
+2024-02-06 13:50:22,734:INFO:Data loading completed
+2024-02-06 13:50:22,734:INFO:Starting analysis
+2024-02-06 13:50:22,734:INFO:Analysis completed
+2024-02-06 13:50:47,204:INFO:Query: SELECT * FROM market_capitalizations WHERE "Bank name" = 'JPMorgan Chase'
+2024-02-06 13:50:47,206:INFO:Results: [(1, 'JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71)]
+2024-02-06 13:50:49,418:INFO:Query: SELECT * FROM market_capitalizations WHERE "Bank name" = 'JPMorgan Chase'
+2024-02-06 13:50:49,418:INFO:Results: [(1, 'JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71)]
+2024-02-06 13:52:14,140:INFO:Starting data extraction
+2024-02-06 13:52:14,140:INFO:Data extraction completed
+2024-02-06 13:52:14,140:INFO:Starting data transformation
+2024-02-06 13:52:14,141:INFO:Data transformation completed
+2024-02-06 13:52:14,141:INFO:Starting data loading into SQL database
+2024-02-06 13:52:14,141:INFO:Data loading completed
+2024-02-06 13:52:14,141:INFO:Starting analysis
+2024-02-06 13:52:14,142:INFO:Analysis completed
+2024-02-06 13:53:13,139:INFO:Query: SELECT * FROM market_capitalizations WHERE "Bank name" = 'JPMorgan Chase'
+2024-02-06 13:53:13,140:INFO:Results: [(1, 'JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71)]
+2024-02-06 13:53:14,382:INFO:Query: SELECT * FROM market_capitalizations WHERE "Bank name" = 'JPMorgan Chase'
+2024-02-06 13:53:14,382:INFO:Results: [(1, 'JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71)]
+2024-02-06 13:53:27,036:INFO:Query: SELECT * FROM market_capitalizations WHERE "Bank name" = 'JPMorgan Chase'
+2024-02-06 13:53:27,037:INFO:Results: [(1, 'JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71)]
+2024-02-06 13:54:33,471:INFO:Starting data extraction
+2024-02-06 13:54:33,471:INFO:Data extraction completed
+2024-02-06 13:54:33,471:INFO:Starting data transformation
+2024-02-06 13:54:33,472:INFO:Data transformation completed
+2024-02-06 13:54:33,472:INFO:Starting data loading into SQL database
+2024-02-06 13:54:33,472:INFO:Data loading completed
+2024-02-06 13:54:33,472:INFO:Starting analysis
+2024-02-06 13:54:33,472:INFO:Analysis completed
+2024-02-06 13:54:43,669:INFO:Query: SELECT * FROM market_capitalizations WHERE "Bank name" = 'JPMorgan Chase'
+2024-02-06 13:54:43,670:INFO:Results: [(1, 'JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71)]
+2024-02-06 13:56:33,486:INFO:Query: SELECT * FROM market_capitalizations WHERE "Bank name" = 'JPMorgan Chase'
+2024-02-06 13:56:33,486:INFO:Results: [(1, 'JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71)]
+2024-02-06 13:57:54,238:INFO:Query: SELECT * FROM market_capitalizations WHERE "Bank name" = 'JPMorgan Chase'
+2024-02-06 13:57:54,238:INFO:Results: [(1, 'JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71)]
+2024-02-06 14:00:08,957:INFO:Query: SELECT * FROM market_capitalizations WHERE "Bank name" = 'JPMorgan Chase'
+2024-02-06 14:00:08,957:INFO:Results: [(1, 'JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71)]
+2024-02-06 14:01:09,770:INFO:Query: SELECT * FROM market_capitalizations WHERE "Bank name" = 'JPMorgan Chase'
+2024-02-06 14:01:09,771:INFO:Results: [(1, 'JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71)]
+2024-02-06 14:04:13,744:INFO:Query: SELECT * FROM market_capitalizations WHERE "Bank name" = 'JPMorgan Chase'
+2024-02-06 14:04:13,744:INFO:Results: [(1, 'JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71)]
+2024-02-06 14:05:08,916:INFO:Query: SELECT * FROM market_capitalizations WHERE "Bank name" = 'Bank of America'
+2024-02-06 14:05:08,917:INFO:Results: [(2, 'Bank of America', 231.52, 185.22, 215.31, 19204.58)]
+2024-02-12 10:33:59 : This is a test log entry.
+2024-02-12 10:34:27 : Data extracted successfully from the webpage.
+2024-02-12 10:34:27 : Data extraction complete. Initiating Transformation process
+2024-02-12 10:34:27 : Data extracted successfully from the webpage.
+2024-02-12 10:39:37 : Data extracted successfully from the webpage.
